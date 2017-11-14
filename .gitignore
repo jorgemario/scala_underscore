@@ -1,2 +1,5 @@
 .ensime_cache/
 project/
+*.class
+*.log
+
